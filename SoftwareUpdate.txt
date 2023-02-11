@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
